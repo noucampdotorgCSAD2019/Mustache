@@ -2,11 +2,9 @@
 		
 > Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help or post an *Issue* on your GitHub repository.
 
-## Clone the Remote Repository
+## Clone the Mustache Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise @ the module BlackBoard page.
-
-1.	Copy the clone URL from your new repository ``mustache-<YOURACCOUNT>``
+1.	Copy the clone URL from your new repository [https://github.com/noucampdotorgCSAD2019/Mustache](https://github.com/noucampdotorgCSAD2019/Mustache)
 
 1.	Type these commands into your *Git Bash* client:
 

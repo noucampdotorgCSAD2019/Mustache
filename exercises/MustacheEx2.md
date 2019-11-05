@@ -28,7 +28,7 @@
 	Update the code so a Mustache template is used to print the clubs in an unordered list.
 
 
-## Update to GitHub
+<!-- ## Update to GitHub
 
 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
@@ -39,4 +39,4 @@
 	$ git push origin master
 	$ git status
 
-	```
+	``` -->
